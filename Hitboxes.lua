@@ -14,6 +14,10 @@ return {
         ["BroomLast"] = true,
         ["BroomHeavy"] = true,
         ["Bombhb"] = true,
+        ["RadOut"] = true,
+        ["nsparkhb"] = true,
+        ["WLhb"] = true,
+        ["mshb"] = true,
         
         -- Sanae
         ["Wavehb"] = true,
