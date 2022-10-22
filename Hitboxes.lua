@@ -21,6 +21,7 @@ return {
         ["Onbashirahb"] = true,
         ["moseshb"] = true,
         ["ritualhb"] = true,
+        ["esostarhb"] = true,
         
         -- Sakuya
         ["KnifeHB"] = true,
