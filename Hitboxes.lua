@@ -5,6 +5,7 @@ return {
         ["GoheiHeavy"] = true,
         
         -- Reimu
+        ["fsin"] = true,
         ["bindghb"] = true,
         ["bindairhb"] = true,
         ["CounterProj"] = true,
