@@ -172,6 +172,8 @@ return {
         ["skyhb"] = true,
         ["unlettinghb"] = true,
         ["unlettinghb2"] = true,
+        ["orbithb"] = true,
+        ["detonatehb"] = true,
         
         -- Aya
         ["AyaHB"] = true,
@@ -184,4 +186,12 @@ return {
         ["maplehb"] = true,
         ["illuhb"] = true,
         ["galehb"] = true,
+        
+        -- Reisen
+        ["bullethb"] = true,
+        ["discarderhb"] = true,
+        ["droppinghb"] = true,
+        ["illublasthb"] = true,
+        ["ripplehb"] = true,
+        ["stingerhb"] = true,
     }
