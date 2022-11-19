@@ -194,4 +194,8 @@ return {
         ["illublasthb"] = true,
         ["ripplehb"] = true,
         ["stingerhb"] = true,
+        
+        -- Remilia
+        ["RemiHB"] = true,
+        ["RemiLast"] = true,
     }
