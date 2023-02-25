@@ -188,6 +188,7 @@ return {
 	["maplehb"] = true,
 	["illuhb"] = true,
 	["galehb"] = true,
+	["gusthb"] = true,
 	
 	-- Reisen
 	["bullethb"] = true,
