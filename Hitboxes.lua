@@ -83,6 +83,7 @@ return {
 	["Clear Sky Mock-up"] = true,
 	["Bamboo Tube Mock-up"] = true,
 	["Volcano Mock-up"] = true,
+	["Resurrection Mock-up"] = true,
 	
 	-- Kokoro
 	["KokoHB"] = true,
