@@ -133,6 +133,7 @@ return {
 	["meltinghb"] = true,
 	["rockethb"] = true,
 	["Rocket Dive Mock-up"] = true,
+	["Hell Geyser Mock-up"] = true,
 	["Cannon Explosion Mock-up"] = true,
 	["Subterranean Sun Mock-up"] = true,
 	
