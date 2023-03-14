@@ -179,8 +179,7 @@ return {
 	["bindinghb"] = true,
 	["stephb"] = true,
 	["Spectre Dense Mock-up"] = true,
-	["Atlas Mock-up"] =
-	true,
+	["Atlas Mock-up"] = true,
 	
 	-- Tenshi
 	["TenshiHB"] = true,
