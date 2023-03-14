@@ -79,7 +79,10 @@ return {
 	["flyingproj"] = true,
 	["tornadohb"] = true,
 	["huntinghb"] = true,
+	["Firebird Mock-up"] = true,
+	["Clear Sky Mock-up"] = true,
 	["Bamboo Tube Mock-up"] = true,
+	["Volcano Mock-up"] = true,
 	
 	-- Kokoro
 	["KokoHB"] = true,
