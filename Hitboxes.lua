@@ -51,6 +51,10 @@ return {
 	["starproj"] = true,
 	["RKFhb"] = true,
 	["raginghb"] = true,
+	["Divine Dragon Mock-up"] = true,
+	["Final Vent Mock-up"] = true,
+	["Colorful Rain Mock-up"] = true,
+	["Star Dance Mock-up"] = true,
 	
 	-- Youmu
 	["SwordHB"] = true,
