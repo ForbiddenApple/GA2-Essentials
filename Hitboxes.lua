@@ -63,6 +63,7 @@ return {
 	["risehb"] = true,
 	["insightfulslash"] = true,
 	["intoleranthb"] = true,
+	["Phosphoric Slash Mock-up"] = true,
 	
 	-- Mokou
 	["MokouHB"] = true,
@@ -74,6 +75,7 @@ return {
 	["flyingproj"] = true,
 	["tornadohb"] = true,
 	["huntinghb"] = true,
+	["Bamboo Tube Mock-up"] = true,
 	
 	-- Kokoro
 	["KokoHB"] = true,
@@ -87,6 +89,7 @@ return {
 	["resolvehb"] = true,
 	["delightedhb"] = true,
 	["worriesHB"] = true,
+	["Four Humors Mock-up"] = true,
 	
 	-- Yukari
 	["FanHB"] = true,
@@ -97,12 +100,14 @@ return {
 	["nesthb2"] = true,
 	["YukaTrain"] = true,
 	["lendlegshb"] = true,
+	["Antimatter Mock-up"] = true,
 	
 	-- Alice
 	["SpearHB"] = true,
 	["DollSpinHB"] = true,
 	["ArrowHB"] = true,
 	["PierceHB"] = true,
+	["Doll Explosion Mock-up"] = true,
 	
 	-- Komachi
 	["ScytheHB"] = true,
@@ -123,6 +128,9 @@ return {
 	["radianthb"] = true,
 	["meltinghb"] = true,
 	["rockethb"] = true,
+	["Rocket Dive Mock-up"] = true,
+	["Cannon Explosion Mock-up"] = true,
+	["Subterranean Sun Mock-up"] = true,
 	
 	-- Rumia
 	["RumiaHB"] = true,
@@ -132,6 +140,7 @@ return {
 	["nbhb2"] = true,
 	["mlhb"] = true,
 	["darksidehb"] = true,
+	["Demarcation Mock-up"] = true,
 	
 	-- Cirno
 	["CirnoHB"] = true,
@@ -153,6 +162,8 @@ return {
 	["piercerhb"] = true,
 	["frostpillarshb"] = true,
 	["eleganthb"] = true,
+	["Little Iceburg Mock-up"] = true,
+	["Icicle Bomb Mock-up"] = true,
 	
 	-- Suika
 	["SuikaHB"] = true,
@@ -162,6 +173,8 @@ return {
 	["AtlasProj"] = true,
 	["bindinghb"] = true,
 	["stephb"] = true,
+	["Spectre Dense Mock-up"] = true,
+	["Atlas Mock-up"] true,
 	
 	-- Tenshi
 	["TenshiHB"] = true,
@@ -176,6 +189,7 @@ return {
 	["unlettinghb2"] = true,
 	["orbithb"] = true,
 	["detonatehb"] = true,
+	["World Creation Press Mock-up"] = true,
 	
 	-- Aya
 	["AyaHB"] = true,
@@ -189,6 +203,8 @@ return {
 	["illuhb"] = true,
 	["galehb"] = true,
 	["gusthb"] = true,
+	["Wind Splitter Mock-up"] = true,
+	["Wind Sickle Mock-up"] = true,
 	
 	-- Reisen
 	["bullethb"] = true,
@@ -197,6 +213,7 @@ return {
 	["illublasthb"] = true,
 	["ripplehb"] = true,
 	["stingerhb"] = true,
+	["Disorder Eye Mock-up"] = true,
 	
 	-- Remilia
 	["RemiHB"] = true,
