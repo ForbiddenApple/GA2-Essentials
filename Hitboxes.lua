@@ -9,6 +9,8 @@ return {
 	["bindghb"] = true,
 	["bindairhb"] = true,
 	["CounterProj"] = true,
+	["busterhb"] = true,
+	["concealedhb"] = true,
 	
 	-- Marisa
 	["BroomHB"] = true,
@@ -229,4 +231,11 @@ return {
 	["RemiHB"] = true,
 	["RemiLast"] = true,
 	["fearhb"] = true,
+	
+	-- Daiyousei
+	["DaiHB1"] = true,
+	["DaiHB2"] = true,
+	["stormhb"] = true,
+	["stormhb2"] = true,
+	["seed"] = true,
 }
