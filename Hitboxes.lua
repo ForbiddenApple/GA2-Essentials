@@ -238,4 +238,8 @@ return {
 	["stormhb"] = true,
 	["stormhb2"] = true,
 	["seed"] = true,
+	
+	-- itachi
+	["fireballhb"] = true,
+	["amahb"] = true,
 }
