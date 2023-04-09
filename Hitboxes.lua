@@ -237,7 +237,7 @@ return {
 	["DaiHB2"] = true,
 	["stormhb"] = true,
 	["stormhb2"] = true,
-	["seed"] = true,
+	["ProjParry"] = true,
 	
 	-- itachi
 	["fireballhb"] = true,
