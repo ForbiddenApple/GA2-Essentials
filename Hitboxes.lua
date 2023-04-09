@@ -238,7 +238,6 @@ return {
 	["stormhb"] = true,
 	["stormhb2"] = true,
 	["seed"] = true,
-	["seedrelease"] = true,
 	
 	-- itachi
 	["fireballhb"] = true,
