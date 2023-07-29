@@ -18,7 +18,7 @@ return {
 	["BroomHeavy"] = true,
 	["Bombhb"] = true,
 	["RadialHB"] = true,
-	["SweepHitbox"] = true
+	["SweepHitbox"] = true,
 	["meteorichb"] = true,
 	["nsparkhb"] = true,
 	["ShootingStarHB"] = true,
