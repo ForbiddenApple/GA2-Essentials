@@ -17,8 +17,11 @@ return {
 	["BroomLast"] = true,
 	["BroomHeavy"] = true,
 	["Bombhb"] = true,
-	["RadOut"] = true,
+	["RadialHB"] = true,
+	["SweepHitbox"] = true
+	["meteorichb"] = true,
 	["nsparkhb"] = true,
+	["ShootingStarHB"] = true,
 	["WLhb"] = true,
 	["mshb"] = true,
 	
@@ -230,7 +233,13 @@ return {
 	-- Remilia
 	["RemiHB"] = true,
 	["RemiLast"] = true,
-	["fearhb"] = true,
+	["ceilinghb"] = true,
+	["arrowhb"] = true,
+	["tricksterhb"] = true,
+	["miserablehb"] = true,
+	["castlefirst"] = true,
+	["castlehb"] = true,
+	["heartbreakhb"] = true,
 	
 	-- Daiyousei
 	["DaiHB1"] = true,
