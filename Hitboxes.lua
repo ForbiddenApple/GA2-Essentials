@@ -1,4 +1,6 @@
 return {
+	["DummyHB"] = true,
+	
 	-- Reimu/Sanae
 	["GoheiHB"] = true,
 	["GoheiLast"] = true,
