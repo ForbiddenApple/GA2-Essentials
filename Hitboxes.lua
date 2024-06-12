@@ -86,6 +86,7 @@ return {
 	["flyingproj"] = true,
 	["tornadohb"] = true,
 	["huntinghb"] = true,
+	["drivehb"] = true,
 	["Firebird Mock-up"] = true,
 	["Clear Sky Mock-up"] = true,
 	["Bamboo Tube Mock-up"] = true,
