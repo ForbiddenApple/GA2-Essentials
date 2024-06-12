@@ -157,6 +157,7 @@ return {
 	["nbhb2"] = true,
 	["mlhb"] = true,
 	["darksidehb"] = true,
+	["groundhb"] = true,
 	["Demarcation Mock-up"] = true,
 	
 	-- Cirno
