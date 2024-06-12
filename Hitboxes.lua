@@ -134,6 +134,7 @@ return {
 	["exorcismhb2"] = true,
 	["assimilatehb"] = true,
 	["endlesshb"] = true,
+	["FalseAngelHitbox"] = true,
 	
 	-- Okuu
 	["RodHB"] = true,
