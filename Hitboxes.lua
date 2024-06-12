@@ -249,8 +249,48 @@ return {
 	["stormhb"] = true,
 	["stormhb2"] = true,
 	["ProjParry"] = true,
+
+	-- Iku
+	["IkuHB"] = true,
+	["IkuLast"] = true,
+	["electrohb"] = true,
+	["drophb"] = true,
+	["smitehb"] = true,
+	["swimhb"] = true,
+	["ravagehb"] = true,
+
+	-- Tewi
+	["c4hb"] = true,
+	["carrothb"] = true,
+	["carrothb2"] = true,
+	["duperhb"] = true,
+	["pithb"] = true,
+	["proxhb"] = true,
+	["chairhb"] = true,
+
+	-- Letty
+	["LettyHB"] = true,
+	["LettyLast"] = true,
+	["stomphb"] = true,
+	["piercehb"] = true,
+	["misthb"] = true,
+	["winterhb"] = true,
+	["winterhb2"] = true,
+
+	-- Patchouli
+	["summerredhb"] = true,
+	["wipehb"] = true,
+	["summerflamehb"] = true,
+	["lasherhb"] = true,
+	["sawbladehb"] = true,
+	["autumnhb"] = true,
+	["tornadohb"] = true,
+	["foshb"] = true,
+	["statichb"] = true,
+	["prismatichb"] = true,
 	
 	-- itachi
 	["fireballhb"] = true,
 	["amahb"] = true,
+	["kunaihb"] = true,
 }
