@@ -220,6 +220,8 @@ return {
 	["downbursthb"] = true,
 	["guideancehb"] = true,
 	["maplehb"] = true,
+	["cyclonehb"] = true,
+	["macrobursthb"] = true,
 	["illuhb"] = true,
 	["galehb"] = true,
 	["gusthb"] = true,
