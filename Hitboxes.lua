@@ -182,7 +182,7 @@ return {
 	["piercerhb"] = true,
 	["frostpillarshb"] = true,
 	["eleganthb"] = true,
-	["Little Iceburg Mock-up"] = true,
+	["Little Iceberg Mock-up"] = true,
 	["Icicle Bomb Mock-up"] = true,
 	
 	-- Suika
